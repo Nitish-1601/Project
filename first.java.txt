@@ -3,5 +3,6 @@ public class first
 public static void main(String[] args)
 {
 System.out.println("Nitish Sharma");
+System.out.println("Studying in Chitakara University");
 }
 }
