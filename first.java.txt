@@ -4,5 +4,6 @@ public static void main(String[] args)
 {
 System.out.println("Nitish Sharma");
 System.out.println("Studying in Chitakara University");
+System.out.println("I like to play cricket");
 }
 }
